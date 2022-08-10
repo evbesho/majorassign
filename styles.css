@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(images/2k17.jpg);
+    color: lightblue;
+}
+
+a {
+    color: white;
+}
+
+table {
+    background-color: #111111;
+}
+
+h1 {
+    font-family: 'Yuji Syuku', serif;
+    color: #d8000c;
+}
+
+h2 {
+    font-family: 'Yuji Syuku', serif;
+    color: #d8000c;
+}
+
+h4 {
+    font-family: 'Yuji Syuku', serif;
+    color: #d8000c;
+}
+
+h3 {
+    font-family: 'Yuji Syuku', serif;
+    color: #d8000c;
+}
+
+h5 {
+    font-weight: bolder;
+}
